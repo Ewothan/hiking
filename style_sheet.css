@@ -1,0 +1,21 @@
+p{
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+body{
+  background-color: lightgreen;
+}
+h1{
+  background-color: white;
+  color: darkslateblue;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 36px;
+  text-align: center;
+}
+img{
+  min-width: 35%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
